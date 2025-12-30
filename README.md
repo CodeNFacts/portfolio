@@ -18,7 +18,7 @@ This repository will host all upcoming projects, tutorials, and coding experimen
 ## 📌 How to Stay Updated
 
 - Follow this repo to get notifications for new projects  
-- Check out my **[CodeNFacts Linktree]([https://linktr.ee/codenfacts])** for other social platforms  
+- Check out my **[CodeNFacts Linktree][https://linktr.ee/codenfacts]** for other social platforms  
 - Subscribe to the **YouTube channel** for tutorials and walkthroughs  
 
 
@@ -33,8 +33,8 @@ Stay tuned for updates and open-source releases!
 ## 🌐 Links
 
 - [Official Website (Coming Soon)]
-- [YouTube Channel]([https://www.youtube.com/@CodeNFacts])  
-- [Instagram Page]([https://www.instagram.com/codenfacts])  
+- [YouTube Channel] : [https://www.youtube.com/@CodeNFacts]
+- [Instagram Page] : [https://www.instagram.com/codenfacts] 
 
 
 
